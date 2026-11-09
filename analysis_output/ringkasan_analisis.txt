@@ -1,0 +1,27 @@
+RINGKASAN ANALISIS NILAI SISWA
+================================
+Jumlah data: 8,611 siswa
+Baris dihapus karena nilai di luar rentang valid: 0
+Baris latih dihapus karena outlier parental_involvement_score: 192
+Nilai pendapatan/jarak yang dibatasi dengan IQR pada data latih: 1077
+Baris dihapus karena missing pada fitur/target: 3222
+Nilai outlier IQR yang terdeteksi: 1997
+Target: final_grade_pct
+Model terbaik berdasarkan MAE: Lasso
+Pembagian data: 80% latih dan 20% uji (random_state=42)
+
+PERBANDINGAN MODEL PADA DATA UJI (diurutkan berdasarkan MAE)
+1. Lasso: MAE 6.78, RMSE 9.44, R2 0.338
+2. Ridge: MAE 6.79, RMSE 9.44, R2 0.338
+3. LinearRegression: MAE 6.79, RMSE 9.44, R2 0.338
+4. HistGradientBoosting: MAE 7.04, RMSE 9.75, R2 0.294
+5. RandomForest: MAE 7.08, RMSE 9.76, R2 0.292
+
+HASIL MODEL TERBAIK
+R2: 0.338 (proporsi variasi nilai yang dijelaskan model)
+MAE: 6.78 poin nilai
+RMSE: 9.44 poin nilai
+MAE baseline tebakan rata-rata: 8.83 poin nilai
+Penurunan MAE dibanding baseline: 23.2%
+
+Catatan: grade_class dan at_risk_flag tidak digunakan sebagai prediktor untuk menghindari kebocoran informasi dari target. Baris dengan missing pada fitur atau target dibuang sebelum pemodelan; kebijakan outlier per kolom tercatat di metrik_model.json dan nilai yang terdeteksi tercatat di outlier_iqr.csv. Persentase yang sudah berada di 0-100 tidak berubah oleh pembatasan rentang logis. Hasil ini menunjukkan hubungan prediktif, bukan bukti sebab-akibat.

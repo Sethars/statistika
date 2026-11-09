@@ -1,0 +1,1998 @@
+baris_csv,kolom,nilai,batas_bawah_iqr,batas_atas_iqr,penanganan
+5573,family_size,10.0,1.0,9.0,tandai saja; nilai dipertahankan
+686,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+2564,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+2836,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+3312,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+5573,num_siblings,8.0,-2.0,6.0,tandai saja; nilai dipertahankan
+6724,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+6810,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+6971,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+7005,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+11123,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+11236,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+11881,num_siblings,7.0,-2.0,6.0,tandai saja; nilai dipertahankan
+14,annual_family_income_inr,2192663.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+35,annual_family_income_inr,4964852.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+39,annual_family_income_inr,1499567.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+67,annual_family_income_inr,4324922.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+75,annual_family_income_inr,1390409.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+100,annual_family_income_inr,4040730.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+104,annual_family_income_inr,1348273.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+108,annual_family_income_inr,3243226.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+117,annual_family_income_inr,1959661.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+129,annual_family_income_inr,5987860.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+137,annual_family_income_inr,4372886.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+160,annual_family_income_inr,1820274.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+164,annual_family_income_inr,4989955.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+179,annual_family_income_inr,3867481.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+184,annual_family_income_inr,4595783.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+192,annual_family_income_inr,1439319.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+201,annual_family_income_inr,1380945.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+229,annual_family_income_inr,4232786.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+239,annual_family_income_inr,1372197.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+242,annual_family_income_inr,1474154.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+278,annual_family_income_inr,1485417.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+296,annual_family_income_inr,2217617.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+308,annual_family_income_inr,1447187.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+317,annual_family_income_inr,5429428.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+348,annual_family_income_inr,5944181.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+371,annual_family_income_inr,2059215.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+375,annual_family_income_inr,1924476.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+380,annual_family_income_inr,3941141.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+390,annual_family_income_inr,1484631.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+393,annual_family_income_inr,2003461.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+396,annual_family_income_inr,2369989.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+411,annual_family_income_inr,4308450.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+423,annual_family_income_inr,3238232.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+440,annual_family_income_inr,3489505.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+496,annual_family_income_inr,1773345.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+510,annual_family_income_inr,5095279.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+515,annual_family_income_inr,4637603.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+526,annual_family_income_inr,1475288.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+539,annual_family_income_inr,1459844.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+546,annual_family_income_inr,1353066.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+549,annual_family_income_inr,1459104.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+554,annual_family_income_inr,4162086.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+573,annual_family_income_inr,1430498.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+590,annual_family_income_inr,2121486.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+593,annual_family_income_inr,2367673.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+598,annual_family_income_inr,1451342.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+600,annual_family_income_inr,5030570.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+612,annual_family_income_inr,3890890.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+622,annual_family_income_inr,4794407.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+643,annual_family_income_inr,1361941.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+667,annual_family_income_inr,3594971.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+668,annual_family_income_inr,2696313.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+710,annual_family_income_inr,1361008.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+717,annual_family_income_inr,1450564.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+739,annual_family_income_inr,3305632.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+746,annual_family_income_inr,1845074.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+755,annual_family_income_inr,3137375.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+762,annual_family_income_inr,1728291.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+764,annual_family_income_inr,3227892.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+771,annual_family_income_inr,4804681.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+788,annual_family_income_inr,1525708.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+815,annual_family_income_inr,2740733.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+820,annual_family_income_inr,1910472.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+855,annual_family_income_inr,1465425.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+869,annual_family_income_inr,4673299.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+901,annual_family_income_inr,2597733.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+954,annual_family_income_inr,2647317.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+970,annual_family_income_inr,5521997.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+981,annual_family_income_inr,3800123.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1007,annual_family_income_inr,1480843.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1052,annual_family_income_inr,2726485.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1064,annual_family_income_inr,2947626.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1085,annual_family_income_inr,1456287.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1100,annual_family_income_inr,2050950.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1109,annual_family_income_inr,1403876.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1135,annual_family_income_inr,2277599.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1139,annual_family_income_inr,3759787.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1153,annual_family_income_inr,2863681.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1183,annual_family_income_inr,3351717.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1199,annual_family_income_inr,5624856.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1206,annual_family_income_inr,4565441.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1208,annual_family_income_inr,3117548.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1214,annual_family_income_inr,1913180.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1226,annual_family_income_inr,5964919.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1234,annual_family_income_inr,4409510.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1248,annual_family_income_inr,2005812.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1250,annual_family_income_inr,2054015.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1253,annual_family_income_inr,1493590.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1264,annual_family_income_inr,1699103.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1292,annual_family_income_inr,3955860.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1293,annual_family_income_inr,1903245.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1295,annual_family_income_inr,1399088.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1297,annual_family_income_inr,1369760.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1324,annual_family_income_inr,4940261.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1326,annual_family_income_inr,2104119.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1343,annual_family_income_inr,1371844.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1346,annual_family_income_inr,1356465.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1351,annual_family_income_inr,1905806.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1381,annual_family_income_inr,1430765.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1390,annual_family_income_inr,4128748.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1410,annual_family_income_inr,1666871.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1412,annual_family_income_inr,2025799.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1460,annual_family_income_inr,3087956.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1467,annual_family_income_inr,2150957.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1468,annual_family_income_inr,2354915.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1489,annual_family_income_inr,1504001.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1504,annual_family_income_inr,3705637.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1506,annual_family_income_inr,2261289.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1511,annual_family_income_inr,1718087.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1514,annual_family_income_inr,1545700.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1521,annual_family_income_inr,3962114.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1529,annual_family_income_inr,2147464.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1533,annual_family_income_inr,3171027.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1536,annual_family_income_inr,1367468.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1567,annual_family_income_inr,2173617.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1588,annual_family_income_inr,2992254.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1610,annual_family_income_inr,4954125.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1626,annual_family_income_inr,1432566.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1631,annual_family_income_inr,1361451.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1635,annual_family_income_inr,4568880.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1702,annual_family_income_inr,1489532.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1720,annual_family_income_inr,3634277.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1751,annual_family_income_inr,2410947.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1778,annual_family_income_inr,1402176.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1818,annual_family_income_inr,1375995.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1827,annual_family_income_inr,2263153.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1829,annual_family_income_inr,1574541.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1831,annual_family_income_inr,2492993.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1844,annual_family_income_inr,1381639.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1852,annual_family_income_inr,1412939.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1868,annual_family_income_inr,1398281.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1872,annual_family_income_inr,1364032.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1880,annual_family_income_inr,4613837.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1905,annual_family_income_inr,1468407.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1935,annual_family_income_inr,2430906.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1954,annual_family_income_inr,4014364.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1955,annual_family_income_inr,1559339.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+1992,annual_family_income_inr,3684935.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2029,annual_family_income_inr,5639290.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2030,annual_family_income_inr,1425160.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2038,annual_family_income_inr,2001256.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2040,annual_family_income_inr,1482501.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2059,annual_family_income_inr,1399038.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2060,annual_family_income_inr,2873835.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2101,annual_family_income_inr,1409735.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2103,annual_family_income_inr,4277308.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2115,annual_family_income_inr,2651235.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2120,annual_family_income_inr,3789103.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2132,annual_family_income_inr,3775396.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2143,annual_family_income_inr,2273532.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2148,annual_family_income_inr,2690952.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2149,annual_family_income_inr,2706353.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2153,annual_family_income_inr,1416176.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2155,annual_family_income_inr,1830344.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2163,annual_family_income_inr,1388526.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2167,annual_family_income_inr,2689473.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2169,annual_family_income_inr,1416068.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2186,annual_family_income_inr,1835277.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2197,annual_family_income_inr,2827642.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2204,annual_family_income_inr,3204703.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2210,annual_family_income_inr,4733358.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2255,annual_family_income_inr,2819314.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2256,annual_family_income_inr,1427363.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2271,annual_family_income_inr,5006612.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2302,annual_family_income_inr,3857332.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2311,annual_family_income_inr,4491242.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2342,annual_family_income_inr,2287068.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2361,annual_family_income_inr,1447050.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2378,annual_family_income_inr,3154841.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2384,annual_family_income_inr,1479019.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2385,annual_family_income_inr,1980379.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2393,annual_family_income_inr,3227466.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2406,annual_family_income_inr,3028540.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2410,annual_family_income_inr,1464722.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2417,annual_family_income_inr,2944898.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2466,annual_family_income_inr,3248667.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2468,annual_family_income_inr,2994209.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2470,annual_family_income_inr,5568707.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2476,annual_family_income_inr,4931728.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2512,annual_family_income_inr,1485050.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2521,annual_family_income_inr,2186424.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2537,annual_family_income_inr,1355358.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2543,annual_family_income_inr,1404535.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2545,annual_family_income_inr,2385189.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2563,annual_family_income_inr,2152733.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2564,annual_family_income_inr,1792617.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2585,annual_family_income_inr,3593106.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2588,annual_family_income_inr,1942477.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2601,annual_family_income_inr,1881131.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2629,annual_family_income_inr,3461325.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2635,annual_family_income_inr,2100560.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2667,annual_family_income_inr,5933613.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2672,annual_family_income_inr,3730206.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2675,annual_family_income_inr,1713777.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2676,annual_family_income_inr,5469162.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2685,annual_family_income_inr,5297563.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2687,annual_family_income_inr,4956214.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2691,annual_family_income_inr,1399800.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2717,annual_family_income_inr,5470091.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2723,annual_family_income_inr,5406680.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2727,annual_family_income_inr,2097196.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2728,annual_family_income_inr,2048081.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2734,annual_family_income_inr,4972510.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2750,annual_family_income_inr,1351326.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2753,annual_family_income_inr,1662793.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2768,annual_family_income_inr,2075860.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2770,annual_family_income_inr,1975917.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2806,annual_family_income_inr,3823291.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2812,annual_family_income_inr,1560130.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2824,annual_family_income_inr,3274133.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2826,annual_family_income_inr,5902473.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2850,annual_family_income_inr,3032532.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2852,annual_family_income_inr,2261183.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2924,annual_family_income_inr,3839476.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2929,annual_family_income_inr,2902960.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2945,annual_family_income_inr,3934363.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2959,annual_family_income_inr,1459985.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2960,annual_family_income_inr,1466058.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+2986,annual_family_income_inr,5705710.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3010,annual_family_income_inr,5444463.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3012,annual_family_income_inr,5488723.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3017,annual_family_income_inr,3075243.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3022,annual_family_income_inr,2088305.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3030,annual_family_income_inr,3433664.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3036,annual_family_income_inr,1445636.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3046,annual_family_income_inr,1381621.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3056,annual_family_income_inr,2860136.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3095,annual_family_income_inr,3816325.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3108,annual_family_income_inr,5915622.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3127,annual_family_income_inr,4464709.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3142,annual_family_income_inr,3822225.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3169,annual_family_income_inr,4978937.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3174,annual_family_income_inr,2903150.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3177,annual_family_income_inr,4146689.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3179,annual_family_income_inr,1688864.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3183,annual_family_income_inr,2939978.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3237,annual_family_income_inr,2958320.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3244,annual_family_income_inr,1498834.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3263,annual_family_income_inr,3597216.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3268,annual_family_income_inr,5604143.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3295,annual_family_income_inr,1433015.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3303,annual_family_income_inr,4889137.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3326,annual_family_income_inr,5923704.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3336,annual_family_income_inr,1383370.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3337,annual_family_income_inr,1385345.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3347,annual_family_income_inr,5794308.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3353,annual_family_income_inr,4906543.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3368,annual_family_income_inr,2598858.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3372,annual_family_income_inr,4014186.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3400,annual_family_income_inr,1485512.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3448,annual_family_income_inr,2461918.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3476,annual_family_income_inr,1421278.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3482,annual_family_income_inr,2179353.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3494,annual_family_income_inr,4441770.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3512,annual_family_income_inr,1877033.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3535,annual_family_income_inr,2509211.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3542,annual_family_income_inr,5303280.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3576,annual_family_income_inr,3977051.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3594,annual_family_income_inr,5040487.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3601,annual_family_income_inr,1835878.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3611,annual_family_income_inr,3987211.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3619,annual_family_income_inr,4379699.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3641,annual_family_income_inr,3210778.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3653,annual_family_income_inr,2091492.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3654,annual_family_income_inr,4184453.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3661,annual_family_income_inr,1846757.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3683,annual_family_income_inr,1410376.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3704,annual_family_income_inr,1446598.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3711,annual_family_income_inr,1458027.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3724,annual_family_income_inr,4504510.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3725,annual_family_income_inr,5073295.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3729,annual_family_income_inr,2023268.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3733,annual_family_income_inr,2371326.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3738,annual_family_income_inr,1627601.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3750,annual_family_income_inr,2933328.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3802,annual_family_income_inr,1388148.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3814,annual_family_income_inr,2672541.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3819,annual_family_income_inr,1590923.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3820,annual_family_income_inr,4161969.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3839,annual_family_income_inr,5795909.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3841,annual_family_income_inr,3745250.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3843,annual_family_income_inr,4078435.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3851,annual_family_income_inr,3675554.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3857,annual_family_income_inr,2013896.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3883,annual_family_income_inr,4059919.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3891,annual_family_income_inr,1456598.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3892,annual_family_income_inr,1460351.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3906,annual_family_income_inr,5924949.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3914,annual_family_income_inr,2801212.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3923,annual_family_income_inr,1738314.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3970,annual_family_income_inr,5942293.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3971,annual_family_income_inr,1390239.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3974,annual_family_income_inr,3603458.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+3985,annual_family_income_inr,4399324.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4020,annual_family_income_inr,3274455.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4036,annual_family_income_inr,2411406.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4049,annual_family_income_inr,1422890.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4090,annual_family_income_inr,2306318.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4099,annual_family_income_inr,1397446.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4128,annual_family_income_inr,2852493.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4151,annual_family_income_inr,4567641.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4157,annual_family_income_inr,3207248.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4167,annual_family_income_inr,5507268.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4183,annual_family_income_inr,1840052.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4228,annual_family_income_inr,5443783.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4230,annual_family_income_inr,1439042.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4236,annual_family_income_inr,4737151.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4269,annual_family_income_inr,4308922.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4271,annual_family_income_inr,2585833.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4277,annual_family_income_inr,3249584.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4291,annual_family_income_inr,1442285.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4295,annual_family_income_inr,3175794.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4300,annual_family_income_inr,1982718.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4301,annual_family_income_inr,1556742.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4306,annual_family_income_inr,2225111.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4309,annual_family_income_inr,3808689.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4317,annual_family_income_inr,4590382.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4321,annual_family_income_inr,2252077.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4328,annual_family_income_inr,5035730.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4346,annual_family_income_inr,2408876.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4389,annual_family_income_inr,2859424.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4426,annual_family_income_inr,1377311.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4464,annual_family_income_inr,2311443.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4466,annual_family_income_inr,1458100.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4482,annual_family_income_inr,1383954.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4511,annual_family_income_inr,3451117.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4515,annual_family_income_inr,3266160.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4544,annual_family_income_inr,4254264.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4563,annual_family_income_inr,1451209.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4569,annual_family_income_inr,4390635.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4572,annual_family_income_inr,1421316.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4584,annual_family_income_inr,2324375.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4595,annual_family_income_inr,1991312.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4610,annual_family_income_inr,4830985.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4615,annual_family_income_inr,1447120.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4623,annual_family_income_inr,4255359.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4624,annual_family_income_inr,2724818.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4641,annual_family_income_inr,5287759.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4666,annual_family_income_inr,3485861.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4686,annual_family_income_inr,5059316.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4690,annual_family_income_inr,3385636.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4709,annual_family_income_inr,4636406.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4717,annual_family_income_inr,3859960.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4730,annual_family_income_inr,4887282.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4774,annual_family_income_inr,3413179.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4789,annual_family_income_inr,3889646.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4791,annual_family_income_inr,3488620.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4799,annual_family_income_inr,6714296.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4807,annual_family_income_inr,1929439.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4810,annual_family_income_inr,1757087.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4817,annual_family_income_inr,3669515.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4819,annual_family_income_inr,1458936.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4824,annual_family_income_inr,2013409.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4848,annual_family_income_inr,3481918.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4856,annual_family_income_inr,3793742.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4865,annual_family_income_inr,1498515.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4869,annual_family_income_inr,1438861.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4871,annual_family_income_inr,2913117.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4876,annual_family_income_inr,2479347.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4895,annual_family_income_inr,1397526.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4899,annual_family_income_inr,3670724.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4906,annual_family_income_inr,5283274.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4910,annual_family_income_inr,3689017.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4931,annual_family_income_inr,5484808.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4955,annual_family_income_inr,2880751.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4959,annual_family_income_inr,1466850.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+4975,annual_family_income_inr,5573170.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5002,annual_family_income_inr,2939099.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5050,annual_family_income_inr,2187710.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5063,annual_family_income_inr,4219289.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5073,annual_family_income_inr,5166190.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5075,annual_family_income_inr,1766786.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5105,annual_family_income_inr,1433399.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5128,annual_family_income_inr,16458631.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5148,annual_family_income_inr,3640420.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5180,annual_family_income_inr,1485949.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5208,annual_family_income_inr,4518959.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5226,annual_family_income_inr,1416469.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5233,annual_family_income_inr,4856355.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5244,annual_family_income_inr,2263919.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5274,annual_family_income_inr,5211958.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5283,annual_family_income_inr,5540712.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5292,annual_family_income_inr,4381909.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5303,annual_family_income_inr,1575526.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5312,annual_family_income_inr,3094862.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5319,annual_family_income_inr,2591486.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5324,annual_family_income_inr,2733968.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5327,annual_family_income_inr,5107675.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5341,annual_family_income_inr,2271174.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5362,annual_family_income_inr,1458705.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5375,annual_family_income_inr,1675021.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5380,annual_family_income_inr,1406581.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5409,annual_family_income_inr,4554582.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5422,annual_family_income_inr,2882830.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5448,annual_family_income_inr,3526074.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5450,annual_family_income_inr,1661659.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5463,annual_family_income_inr,4108485.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5465,annual_family_income_inr,1431819.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5472,annual_family_income_inr,4366022.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5490,annual_family_income_inr,2945048.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5497,annual_family_income_inr,5547894.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5506,annual_family_income_inr,1877833.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5519,annual_family_income_inr,1415619.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5524,annual_family_income_inr,1786799.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5564,annual_family_income_inr,2413210.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5620,annual_family_income_inr,4581809.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5627,annual_family_income_inr,1466847.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5634,annual_family_income_inr,5426963.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5651,annual_family_income_inr,1553824.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5669,annual_family_income_inr,1436241.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5672,annual_family_income_inr,5609885.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5677,annual_family_income_inr,1383480.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5687,annual_family_income_inr,1350377.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5707,annual_family_income_inr,3658805.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5708,annual_family_income_inr,5523739.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5734,annual_family_income_inr,2500209.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5770,annual_family_income_inr,4571729.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5773,annual_family_income_inr,1507444.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5776,annual_family_income_inr,2261840.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5777,annual_family_income_inr,1368687.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5798,annual_family_income_inr,1726901.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5823,annual_family_income_inr,5631242.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5844,annual_family_income_inr,3876914.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5858,annual_family_income_inr,1867860.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5860,annual_family_income_inr,4439309.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5876,annual_family_income_inr,5316456.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5893,annual_family_income_inr,1657388.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5939,annual_family_income_inr,1355273.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+5980,annual_family_income_inr,1585360.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6021,annual_family_income_inr,1451419.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6025,annual_family_income_inr,1482767.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6029,annual_family_income_inr,3201227.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6055,annual_family_income_inr,1444435.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6067,annual_family_income_inr,4583063.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6081,annual_family_income_inr,1434024.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6090,annual_family_income_inr,2156313.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6103,annual_family_income_inr,5522154.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6138,annual_family_income_inr,2837854.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6165,annual_family_income_inr,5894993.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6167,annual_family_income_inr,5852806.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6171,annual_family_income_inr,2994589.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6173,annual_family_income_inr,1669858.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6194,annual_family_income_inr,1433008.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6200,annual_family_income_inr,3907332.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6276,annual_family_income_inr,3494290.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6278,annual_family_income_inr,1836580.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6283,annual_family_income_inr,1788778.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6299,annual_family_income_inr,1491585.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6305,annual_family_income_inr,1365269.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6336,annual_family_income_inr,1614436.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6351,annual_family_income_inr,2179107.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6355,annual_family_income_inr,3224035.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6368,annual_family_income_inr,1379832.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6372,annual_family_income_inr,4263509.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6404,annual_family_income_inr,2564551.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6420,annual_family_income_inr,5101323.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6428,annual_family_income_inr,3069257.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6430,annual_family_income_inr,1877969.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6432,annual_family_income_inr,1391484.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6445,annual_family_income_inr,3105725.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6450,annual_family_income_inr,1418898.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6475,annual_family_income_inr,4145625.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6484,annual_family_income_inr,2830170.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6490,annual_family_income_inr,3276578.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6492,annual_family_income_inr,2993596.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6541,annual_family_income_inr,3022006.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6551,annual_family_income_inr,2281929.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6553,annual_family_income_inr,8330509.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6568,annual_family_income_inr,3228197.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6619,annual_family_income_inr,1530218.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6624,annual_family_income_inr,5367092.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6627,annual_family_income_inr,1872242.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6632,annual_family_income_inr,1404325.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6633,annual_family_income_inr,2332862.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6660,annual_family_income_inr,2370728.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6724,annual_family_income_inr,1513651.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6729,annual_family_income_inr,5633123.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6738,annual_family_income_inr,4957111.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6745,annual_family_income_inr,3597866.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6759,annual_family_income_inr,5574743.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6764,annual_family_income_inr,3801532.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6765,annual_family_income_inr,3649561.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6793,annual_family_income_inr,2420500.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6798,annual_family_income_inr,5313103.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6841,annual_family_income_inr,3149085.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6870,annual_family_income_inr,5025255.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6882,annual_family_income_inr,2769035.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6895,annual_family_income_inr,1409181.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6906,annual_family_income_inr,1412037.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6909,annual_family_income_inr,3412713.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6916,annual_family_income_inr,5068122.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6919,annual_family_income_inr,5714291.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6937,annual_family_income_inr,3538708.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6965,annual_family_income_inr,5933022.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+6969,annual_family_income_inr,2204086.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7008,annual_family_income_inr,1380538.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7022,annual_family_income_inr,2612788.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7024,annual_family_income_inr,2639651.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7026,annual_family_income_inr,2013045.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7029,annual_family_income_inr,1350825.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7050,annual_family_income_inr,1451935.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7051,annual_family_income_inr,2526559.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7054,annual_family_income_inr,2333895.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7058,annual_family_income_inr,2239009.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7062,annual_family_income_inr,2572840.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7111,annual_family_income_inr,1414685.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7121,annual_family_income_inr,1465687.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7126,annual_family_income_inr,1424451.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7137,annual_family_income_inr,4736271.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7148,annual_family_income_inr,1469670.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7155,annual_family_income_inr,2997948.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7182,annual_family_income_inr,5087418.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7192,annual_family_income_inr,5013789.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7215,annual_family_income_inr,2086926.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7220,annual_family_income_inr,1448586.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7226,annual_family_income_inr,1457854.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7230,annual_family_income_inr,2267006.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7246,annual_family_income_inr,1482583.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7262,annual_family_income_inr,4590858.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7265,annual_family_income_inr,1390436.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7290,annual_family_income_inr,1409316.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7295,annual_family_income_inr,1812543.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7322,annual_family_income_inr,2850978.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7327,annual_family_income_inr,2312911.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7336,annual_family_income_inr,1925841.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7343,annual_family_income_inr,2945862.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7353,annual_family_income_inr,1701826.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7359,annual_family_income_inr,1351525.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7362,annual_family_income_inr,3714114.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7368,annual_family_income_inr,1415935.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7369,annual_family_income_inr,4632841.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7381,annual_family_income_inr,2743616.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7394,annual_family_income_inr,3241828.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7430,annual_family_income_inr,5541764.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7441,annual_family_income_inr,4003865.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7458,annual_family_income_inr,1361017.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7474,annual_family_income_inr,1382382.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7478,annual_family_income_inr,2888350.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7488,annual_family_income_inr,2916024.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7493,annual_family_income_inr,1460995.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7496,annual_family_income_inr,1431722.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7500,annual_family_income_inr,1668882.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7508,annual_family_income_inr,4772349.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7517,annual_family_income_inr,2208380.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7528,annual_family_income_inr,2321029.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7540,annual_family_income_inr,1608165.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7551,annual_family_income_inr,5414796.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7567,annual_family_income_inr,5875449.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7584,annual_family_income_inr,2801275.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7585,annual_family_income_inr,4383451.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7627,annual_family_income_inr,19621849.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7638,annual_family_income_inr,2597670.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7658,annual_family_income_inr,1362391.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7667,annual_family_income_inr,2729537.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7692,annual_family_income_inr,1441159.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7728,annual_family_income_inr,1362671.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7746,annual_family_income_inr,2631709.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7759,annual_family_income_inr,3642301.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7789,annual_family_income_inr,1444443.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7791,annual_family_income_inr,2112836.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7796,annual_family_income_inr,1590294.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7832,annual_family_income_inr,2293436.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7860,annual_family_income_inr,3073832.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7863,annual_family_income_inr,5338534.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7869,annual_family_income_inr,3911312.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7894,annual_family_income_inr,2628118.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7925,annual_family_income_inr,4471059.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7927,annual_family_income_inr,2442970.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7946,annual_family_income_inr,2928933.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+7999,annual_family_income_inr,1789026.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8020,annual_family_income_inr,4843479.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8035,annual_family_income_inr,4859186.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8047,annual_family_income_inr,3271930.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8052,annual_family_income_inr,2382730.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8055,annual_family_income_inr,3080917.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8056,annual_family_income_inr,1353729.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8064,annual_family_income_inr,1432849.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8076,annual_family_income_inr,4221794.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8077,annual_family_income_inr,2490421.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8090,annual_family_income_inr,1370066.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8097,annual_family_income_inr,3426710.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8120,annual_family_income_inr,5854762.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8151,annual_family_income_inr,1424894.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8152,annual_family_income_inr,3677910.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8154,annual_family_income_inr,4623688.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8167,annual_family_income_inr,1723907.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8175,annual_family_income_inr,2794542.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8200,annual_family_income_inr,1557984.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8228,annual_family_income_inr,2348553.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8235,annual_family_income_inr,5895123.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8256,annual_family_income_inr,5758153.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8258,annual_family_income_inr,1352942.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8260,annual_family_income_inr,2147499.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8271,annual_family_income_inr,5901396.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8277,annual_family_income_inr,4246608.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8278,annual_family_income_inr,1370824.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8284,annual_family_income_inr,1751669.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8286,annual_family_income_inr,1849140.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8287,annual_family_income_inr,3756852.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8293,annual_family_income_inr,1433220.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8323,annual_family_income_inr,2888350.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8332,annual_family_income_inr,1436016.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8333,annual_family_income_inr,1470192.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8351,annual_family_income_inr,1690912.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8362,annual_family_income_inr,1681883.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8376,annual_family_income_inr,1349235.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8384,annual_family_income_inr,1756324.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8390,annual_family_income_inr,1696998.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8391,annual_family_income_inr,2817857.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8399,annual_family_income_inr,1477008.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8402,annual_family_income_inr,4474413.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8407,annual_family_income_inr,3294578.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8409,annual_family_income_inr,5012702.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8418,annual_family_income_inr,1402920.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8424,annual_family_income_inr,1420604.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8429,annual_family_income_inr,2938113.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8431,annual_family_income_inr,1522432.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8434,annual_family_income_inr,1411384.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8446,annual_family_income_inr,14847977.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8453,annual_family_income_inr,2291294.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8470,annual_family_income_inr,2140657.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8476,annual_family_income_inr,1584528.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8495,annual_family_income_inr,1489195.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8500,annual_family_income_inr,3299083.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8529,annual_family_income_inr,3257296.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8548,annual_family_income_inr,5852177.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8578,annual_family_income_inr,1408745.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8595,annual_family_income_inr,3268870.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8606,annual_family_income_inr,1355163.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8668,annual_family_income_inr,1398882.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8699,annual_family_income_inr,3351228.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8749,annual_family_income_inr,3499664.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8763,annual_family_income_inr,2528642.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8768,annual_family_income_inr,3432219.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8787,annual_family_income_inr,3404596.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8790,annual_family_income_inr,3667920.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8803,annual_family_income_inr,1410237.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8820,annual_family_income_inr,1386224.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8834,annual_family_income_inr,2305270.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8835,annual_family_income_inr,1417934.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8879,annual_family_income_inr,1428184.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8920,annual_family_income_inr,1662733.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8924,annual_family_income_inr,3696623.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8928,annual_family_income_inr,3408829.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8953,annual_family_income_inr,2377747.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8961,annual_family_income_inr,4049394.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8963,annual_family_income_inr,1695939.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8996,annual_family_income_inr,1785208.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+8997,annual_family_income_inr,2758819.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9008,annual_family_income_inr,4666266.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9022,annual_family_income_inr,1425881.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9027,annual_family_income_inr,2401699.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9034,annual_family_income_inr,1387267.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9047,annual_family_income_inr,1398640.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9078,annual_family_income_inr,1449346.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9083,annual_family_income_inr,3138062.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9094,annual_family_income_inr,2391150.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9106,annual_family_income_inr,4439503.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9137,annual_family_income_inr,1403559.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9155,annual_family_income_inr,2342613.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9216,annual_family_income_inr,1798022.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9243,annual_family_income_inr,3849568.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9254,annual_family_income_inr,2018060.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9258,annual_family_income_inr,1626258.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9278,annual_family_income_inr,1924435.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9293,annual_family_income_inr,1379898.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9312,annual_family_income_inr,5201096.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9340,annual_family_income_inr,1369988.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9341,annual_family_income_inr,3714103.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9354,annual_family_income_inr,7402816.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9355,annual_family_income_inr,5315094.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9362,annual_family_income_inr,2716396.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9363,annual_family_income_inr,1492422.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9403,annual_family_income_inr,1828138.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9427,annual_family_income_inr,3782622.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9457,annual_family_income_inr,1463117.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9459,annual_family_income_inr,1761626.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9461,annual_family_income_inr,1360459.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9505,annual_family_income_inr,4591855.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9513,annual_family_income_inr,1443773.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9538,annual_family_income_inr,1404995.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9545,annual_family_income_inr,3358460.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9557,annual_family_income_inr,2062363.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9558,annual_family_income_inr,2504834.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9559,annual_family_income_inr,2081541.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9566,annual_family_income_inr,2473635.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9570,annual_family_income_inr,3704198.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9571,annual_family_income_inr,1818264.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9601,annual_family_income_inr,1406489.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9631,annual_family_income_inr,4506609.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9638,annual_family_income_inr,1402772.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9644,annual_family_income_inr,1703023.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9653,annual_family_income_inr,1651624.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9668,annual_family_income_inr,2045719.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9731,annual_family_income_inr,5581982.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9738,annual_family_income_inr,2085206.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9742,annual_family_income_inr,3881648.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9747,annual_family_income_inr,1370161.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9752,annual_family_income_inr,5146147.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9767,annual_family_income_inr,1504336.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9803,annual_family_income_inr,1379423.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9817,annual_family_income_inr,4556297.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9823,annual_family_income_inr,3272624.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9841,annual_family_income_inr,1447261.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9858,annual_family_income_inr,2510243.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9883,annual_family_income_inr,2224391.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9900,annual_family_income_inr,3030105.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9902,annual_family_income_inr,1421264.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9963,annual_family_income_inr,1409349.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+9999,annual_family_income_inr,2756761.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10003,annual_family_income_inr,3478518.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10019,annual_family_income_inr,2049279.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10028,annual_family_income_inr,1432295.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10038,annual_family_income_inr,4886467.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10052,annual_family_income_inr,5053683.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10055,annual_family_income_inr,2588775.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10073,annual_family_income_inr,1532331.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10089,annual_family_income_inr,1418912.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10092,annual_family_income_inr,1422961.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10093,annual_family_income_inr,4821591.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10107,annual_family_income_inr,1364426.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10147,annual_family_income_inr,1423270.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10160,annual_family_income_inr,3546825.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10181,annual_family_income_inr,4456101.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10236,annual_family_income_inr,5444857.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10246,annual_family_income_inr,1377452.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10247,annual_family_income_inr,2498063.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10260,annual_family_income_inr,2284429.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10264,annual_family_income_inr,3196606.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10288,annual_family_income_inr,1499222.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10289,annual_family_income_inr,3182401.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10294,annual_family_income_inr,2949043.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10370,annual_family_income_inr,1388578.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10379,annual_family_income_inr,3627007.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10386,annual_family_income_inr,3386979.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10395,annual_family_income_inr,2835959.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10408,annual_family_income_inr,1404956.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10416,annual_family_income_inr,1379301.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10418,annual_family_income_inr,5610538.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10419,annual_family_income_inr,3634692.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10431,annual_family_income_inr,2053583.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10464,annual_family_income_inr,1439433.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10465,annual_family_income_inr,1421385.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10476,annual_family_income_inr,4160682.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10481,annual_family_income_inr,3675730.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10515,annual_family_income_inr,2457127.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10530,annual_family_income_inr,3286088.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10544,annual_family_income_inr,4163514.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10550,annual_family_income_inr,1472698.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10551,annual_family_income_inr,2146090.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10564,annual_family_income_inr,2021711.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10568,annual_family_income_inr,4155182.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10583,annual_family_income_inr,2165012.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10600,annual_family_income_inr,2975872.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10610,annual_family_income_inr,2844380.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10615,annual_family_income_inr,2699626.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10650,annual_family_income_inr,1456256.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10709,annual_family_income_inr,2218092.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10717,annual_family_income_inr,5143120.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10718,annual_family_income_inr,1450660.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10726,annual_family_income_inr,3404759.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10742,annual_family_income_inr,5802998.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10757,annual_family_income_inr,1485678.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10760,annual_family_income_inr,2111649.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10761,annual_family_income_inr,1948237.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10764,annual_family_income_inr,2388775.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10765,annual_family_income_inr,3043805.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10770,annual_family_income_inr,1475810.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10782,annual_family_income_inr,4977029.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10800,annual_family_income_inr,5032408.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10803,annual_family_income_inr,1487540.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10810,annual_family_income_inr,1360951.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10847,annual_family_income_inr,2123517.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10853,annual_family_income_inr,1660323.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10861,annual_family_income_inr,1830212.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10874,annual_family_income_inr,1482493.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10887,annual_family_income_inr,1552900.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10895,annual_family_income_inr,1487692.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10896,annual_family_income_inr,2914109.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10916,annual_family_income_inr,1366716.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10936,annual_family_income_inr,4536249.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10949,annual_family_income_inr,1394710.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10951,annual_family_income_inr,1466303.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10952,annual_family_income_inr,1427133.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10974,annual_family_income_inr,2391145.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10981,annual_family_income_inr,1789758.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+10982,annual_family_income_inr,1442196.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11029,annual_family_income_inr,5450223.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11037,annual_family_income_inr,1486283.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11080,annual_family_income_inr,1426788.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11092,annual_family_income_inr,1445073.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11097,annual_family_income_inr,4142353.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11103,annual_family_income_inr,1374586.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11118,annual_family_income_inr,2196976.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11127,annual_family_income_inr,5717314.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11135,annual_family_income_inr,1886846.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11147,annual_family_income_inr,2739672.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11150,annual_family_income_inr,2342067.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11177,annual_family_income_inr,1489891.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11212,annual_family_income_inr,2039164.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11220,annual_family_income_inr,1894248.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11225,annual_family_income_inr,2053718.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11231,annual_family_income_inr,2293936.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11265,annual_family_income_inr,1833209.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11271,annual_family_income_inr,4672410.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11277,annual_family_income_inr,4984702.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11306,annual_family_income_inr,4491074.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11308,annual_family_income_inr,2291963.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11322,annual_family_income_inr,1503960.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11323,annual_family_income_inr,1392118.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11350,annual_family_income_inr,2721955.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11356,annual_family_income_inr,3344096.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11358,annual_family_income_inr,1929701.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11367,annual_family_income_inr,5075789.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11381,annual_family_income_inr,3004853.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11399,annual_family_income_inr,3412673.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11425,annual_family_income_inr,1359918.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11430,annual_family_income_inr,5992505.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11445,annual_family_income_inr,1362177.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11460,annual_family_income_inr,2620041.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11462,annual_family_income_inr,2174039.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11503,annual_family_income_inr,2493000.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11504,annual_family_income_inr,2031898.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11558,annual_family_income_inr,2000476.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11565,annual_family_income_inr,3895411.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11596,annual_family_income_inr,1883861.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11603,annual_family_income_inr,1453400.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11617,annual_family_income_inr,1483642.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11625,annual_family_income_inr,4527586.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11650,annual_family_income_inr,2542272.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11654,annual_family_income_inr,1386040.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11655,annual_family_income_inr,2127759.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11663,annual_family_income_inr,4003899.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11669,annual_family_income_inr,4709863.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11685,annual_family_income_inr,1464212.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11712,annual_family_income_inr,1475381.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11716,annual_family_income_inr,4764299.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11759,annual_family_income_inr,3629975.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11767,annual_family_income_inr,3305244.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11776,annual_family_income_inr,1415994.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11786,annual_family_income_inr,2569055.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11788,annual_family_income_inr,1471494.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11790,annual_family_income_inr,2072060.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11797,annual_family_income_inr,2986073.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11815,annual_family_income_inr,1385369.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11828,annual_family_income_inr,1773199.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11832,annual_family_income_inr,2074790.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11843,annual_family_income_inr,1519243.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11845,annual_family_income_inr,3865694.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11867,annual_family_income_inr,2685229.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11875,annual_family_income_inr,1734152.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11877,annual_family_income_inr,1370993.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11881,annual_family_income_inr,4423074.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11908,annual_family_income_inr,2099707.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11913,annual_family_income_inr,3509701.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11916,annual_family_income_inr,2508674.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11918,annual_family_income_inr,2933674.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11920,annual_family_income_inr,4583653.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11929,annual_family_income_inr,1892782.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11939,annual_family_income_inr,1989291.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11942,annual_family_income_inr,2473643.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11953,annual_family_income_inr,1447226.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11964,annual_family_income_inr,4920851.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11965,annual_family_income_inr,4270568.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+11991,annual_family_income_inr,4321916.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+12001,annual_family_income_inr,1967785.0,-501354.75,1348151.25,winsorize IQR pada fitur model
+56,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+85,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+100,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+113,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+131,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+132,distance_to_school_km,14.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+137,distance_to_school_km,21.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+199,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+200,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+218,distance_to_school_km,15.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+230,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+270,distance_to_school_km,12.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+317,distance_to_school_km,16.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+330,distance_to_school_km,18.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+341,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+381,distance_to_school_km,11.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+393,distance_to_school_km,17.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+405,distance_to_school_km,11.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+457,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+469,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+483,distance_to_school_km,16.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+489,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+499,distance_to_school_km,12.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+512,distance_to_school_km,16.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+530,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+561,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+570,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+571,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+608,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+616,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+666,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+682,distance_to_school_km,14.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+778,distance_to_school_km,17.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+787,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+798,distance_to_school_km,24.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+817,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+834,distance_to_school_km,16.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+836,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+839,distance_to_school_km,13.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+841,distance_to_school_km,14.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+852,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+858,distance_to_school_km,13.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+861,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+899,distance_to_school_km,14.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+911,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+917,distance_to_school_km,20.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1018,distance_to_school_km,14.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1043,distance_to_school_km,14.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1054,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1057,distance_to_school_km,14.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1066,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1083,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1193,distance_to_school_km,13.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1207,distance_to_school_km,15.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1235,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1243,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1256,distance_to_school_km,17.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1273,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1306,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1330,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1365,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1390,distance_to_school_km,11.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1409,distance_to_school_km,13.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1426,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1451,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1461,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1489,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1510,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1519,distance_to_school_km,18.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1579,distance_to_school_km,20.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1626,distance_to_school_km,24.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1662,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1676,distance_to_school_km,14.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1714,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1718,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1744,distance_to_school_km,18.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1798,distance_to_school_km,13.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1828,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1835,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1863,distance_to_school_km,24.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1864,distance_to_school_km,11.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1882,distance_to_school_km,18.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1932,distance_to_school_km,14.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+1942,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2047,distance_to_school_km,16.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2056,distance_to_school_km,21.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2060,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2070,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2103,distance_to_school_km,12.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2133,distance_to_school_km,15.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2161,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2168,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2182,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2234,distance_to_school_km,13.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2251,distance_to_school_km,18.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2305,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2328,distance_to_school_km,15.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2348,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2385,distance_to_school_km,20.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2407,distance_to_school_km,14.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2411,distance_to_school_km,25.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2431,distance_to_school_km,14.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2462,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2466,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2491,distance_to_school_km,15.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2545,distance_to_school_km,13.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2546,distance_to_school_km,14.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2589,distance_to_school_km,21.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2635,distance_to_school_km,11.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2685,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2721,distance_to_school_km,21.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2736,distance_to_school_km,25.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2743,distance_to_school_km,19.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2753,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2759,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2781,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2853,distance_to_school_km,13.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2861,distance_to_school_km,14.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2862,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2864,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2868,distance_to_school_km,11.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2872,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2875,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2882,distance_to_school_km,17.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2935,distance_to_school_km,15.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+2950,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3012,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3072,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3103,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3112,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3183,distance_to_school_km,18.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3186,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3224,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3248,distance_to_school_km,16.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3309,distance_to_school_km,15.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3310,distance_to_school_km,17.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3317,distance_to_school_km,14.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3381,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3400,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3417,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3423,distance_to_school_km,11.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3433,distance_to_school_km,15.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3499,distance_to_school_km,13.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3520,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3561,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3583,distance_to_school_km,16.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3601,distance_to_school_km,14.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3619,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3630,distance_to_school_km,14.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3636,distance_to_school_km,12.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3665,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3668,distance_to_school_km,18.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3670,distance_to_school_km,16.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3703,distance_to_school_km,15.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3722,distance_to_school_km,11.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3732,distance_to_school_km,19.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3788,distance_to_school_km,14.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3799,distance_to_school_km,17.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3825,distance_to_school_km,19.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3869,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3873,distance_to_school_km,17.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3883,distance_to_school_km,20.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3891,distance_to_school_km,15.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3894,distance_to_school_km,21.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3909,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3929,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3941,distance_to_school_km,25.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3958,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3977,distance_to_school_km,18.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3988,distance_to_school_km,16.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4002,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4034,distance_to_school_km,14.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4047,distance_to_school_km,11.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4073,distance_to_school_km,15.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4094,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4110,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4154,distance_to_school_km,14.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4161,distance_to_school_km,11.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4167,distance_to_school_km,11.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4197,distance_to_school_km,17.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4224,distance_to_school_km,15.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4261,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4295,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4327,distance_to_school_km,14.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4354,distance_to_school_km,13.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4381,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4396,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4406,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4436,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4454,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4477,distance_to_school_km,14.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4479,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4504,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4514,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4537,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4543,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4571,distance_to_school_km,13.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4579,distance_to_school_km,20.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4580,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4594,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4610,distance_to_school_km,17.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4638,distance_to_school_km,13.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4665,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4743,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4746,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4813,distance_to_school_km,13.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4814,distance_to_school_km,19.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4823,distance_to_school_km,15.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4843,distance_to_school_km,17.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4865,distance_to_school_km,20.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4906,distance_to_school_km,14.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4927,distance_to_school_km,16.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4930,distance_to_school_km,14.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4935,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4938,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4957,distance_to_school_km,15.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+4985,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5024,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5037,distance_to_school_km,15.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5077,distance_to_school_km,15.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5089,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5113,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5143,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5153,distance_to_school_km,15.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5158,distance_to_school_km,20.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5177,distance_to_school_km,18.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5222,distance_to_school_km,18.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5239,distance_to_school_km,14.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5259,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5272,distance_to_school_km,15.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5284,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5292,distance_to_school_km,14.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5300,distance_to_school_km,21.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5319,distance_to_school_km,15.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5343,distance_to_school_km,18.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5356,distance_to_school_km,16.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5364,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5369,distance_to_school_km,16.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5419,distance_to_school_km,11.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5445,distance_to_school_km,22.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5449,distance_to_school_km,14.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5451,distance_to_school_km,15.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5471,distance_to_school_km,18.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5519,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5521,distance_to_school_km,26.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5527,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5529,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5587,distance_to_school_km,12.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5608,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5614,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5615,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5620,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5646,distance_to_school_km,14.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5701,distance_to_school_km,19.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5713,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5720,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5766,distance_to_school_km,12.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5789,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5794,distance_to_school_km,15.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5797,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5802,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5855,distance_to_school_km,18.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5884,distance_to_school_km,12.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5923,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5940,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5974,distance_to_school_km,16.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+5976,distance_to_school_km,16.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6003,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6010,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6011,distance_to_school_km,16.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6104,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6138,distance_to_school_km,18.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6176,distance_to_school_km,11.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6226,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6269,distance_to_school_km,17.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6275,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6276,distance_to_school_km,13.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6280,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6306,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6357,distance_to_school_km,16.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6372,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6377,distance_to_school_km,14.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6379,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6397,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6412,distance_to_school_km,12.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6415,distance_to_school_km,14.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6416,distance_to_school_km,14.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6446,distance_to_school_km,20.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6468,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6492,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6508,distance_to_school_km,12.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6541,distance_to_school_km,11.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6560,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6613,distance_to_school_km,16.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6615,distance_to_school_km,18.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6657,distance_to_school_km,16.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6665,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6668,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6673,distance_to_school_km,17.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6702,distance_to_school_km,15.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6737,distance_to_school_km,11.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6739,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6749,distance_to_school_km,15.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6760,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6766,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6828,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6838,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6840,distance_to_school_km,14.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6861,distance_to_school_km,13.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6878,distance_to_school_km,16.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6916,distance_to_school_km,11.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6954,distance_to_school_km,13.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+6982,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7065,distance_to_school_km,13.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7075,distance_to_school_km,18.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7076,distance_to_school_km,14.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7079,distance_to_school_km,18.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7124,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7132,distance_to_school_km,20.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7185,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7191,distance_to_school_km,13.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7221,distance_to_school_km,15.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7225,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7226,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7230,distance_to_school_km,17.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7247,distance_to_school_km,18.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7251,distance_to_school_km,14.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7302,distance_to_school_km,14.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7317,distance_to_school_km,31.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7323,distance_to_school_km,12.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7344,distance_to_school_km,18.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7351,distance_to_school_km,24.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7396,distance_to_school_km,17.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7430,distance_to_school_km,17.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7523,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7568,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7614,distance_to_school_km,24.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7725,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7744,distance_to_school_km,17.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7761,distance_to_school_km,13.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7774,distance_to_school_km,16.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7776,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7789,distance_to_school_km,18.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7792,distance_to_school_km,11.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7809,distance_to_school_km,16.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7817,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7857,distance_to_school_km,18.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7876,distance_to_school_km,14.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7927,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+7937,distance_to_school_km,17.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8020,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8030,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8045,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8073,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8104,distance_to_school_km,20.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8107,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8114,distance_to_school_km,15.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8143,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8148,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8198,distance_to_school_km,14.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8308,distance_to_school_km,16.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8313,distance_to_school_km,16.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8322,distance_to_school_km,18.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8371,distance_to_school_km,11.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8390,distance_to_school_km,15.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8394,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8411,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8470,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8482,distance_to_school_km,13.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8487,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8520,distance_to_school_km,18.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8525,distance_to_school_km,13.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8568,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8602,distance_to_school_km,13.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8624,distance_to_school_km,13.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8660,distance_to_school_km,12.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8672,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8759,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8766,distance_to_school_km,14.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8804,distance_to_school_km,20.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8819,distance_to_school_km,13.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8820,distance_to_school_km,14.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8832,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8849,distance_to_school_km,23.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8855,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8869,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8970,distance_to_school_km,23.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8971,distance_to_school_km,16.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8976,distance_to_school_km,18.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+8987,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9021,distance_to_school_km,11.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9029,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9030,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9060,distance_to_school_km,13.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9070,distance_to_school_km,16.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9124,distance_to_school_km,17.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9130,distance_to_school_km,16.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9147,distance_to_school_km,11.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9180,distance_to_school_km,14.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9186,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9192,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9193,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9197,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9255,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9310,distance_to_school_km,13.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9331,distance_to_school_km,11.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9361,distance_to_school_km,17.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9375,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9397,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9404,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9411,distance_to_school_km,23.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9440,distance_to_school_km,18.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9463,distance_to_school_km,15.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9465,distance_to_school_km,23.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9470,distance_to_school_km,14.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9474,distance_to_school_km,13.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9482,distance_to_school_km,16.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9497,distance_to_school_km,14.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9501,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9507,distance_to_school_km,12.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9508,distance_to_school_km,17.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9510,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9514,distance_to_school_km,22.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9525,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9532,distance_to_school_km,13.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9563,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9618,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9632,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9705,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9718,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9722,distance_to_school_km,19.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9782,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9790,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9806,distance_to_school_km,20.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9901,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9918,distance_to_school_km,13.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9922,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+9989,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10029,distance_to_school_km,13.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10056,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10063,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10074,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10077,distance_to_school_km,18.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10100,distance_to_school_km,11.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10121,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10147,distance_to_school_km,11.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10190,distance_to_school_km,12.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10202,distance_to_school_km,12.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10241,distance_to_school_km,14.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10286,distance_to_school_km,16.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10289,distance_to_school_km,14.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10319,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10370,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10404,distance_to_school_km,17.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10445,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10473,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10520,distance_to_school_km,11.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10523,distance_to_school_km,18.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10535,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10539,distance_to_school_km,10.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10558,distance_to_school_km,13.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10589,distance_to_school_km,13.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10612,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10640,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10655,distance_to_school_km,16.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10675,distance_to_school_km,11.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10684,distance_to_school_km,23.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10685,distance_to_school_km,11.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10740,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10761,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10782,distance_to_school_km,12.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10814,distance_to_school_km,17.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10847,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10870,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10873,distance_to_school_km,14.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10904,distance_to_school_km,20.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10928,distance_to_school_km,12.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+10999,distance_to_school_km,12.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11020,distance_to_school_km,10.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11024,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11079,distance_to_school_km,15.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11108,distance_to_school_km,12.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11112,distance_to_school_km,21.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11119,distance_to_school_km,11.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11172,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11181,distance_to_school_km,24.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11225,distance_to_school_km,17.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11263,distance_to_school_km,16.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11329,distance_to_school_km,16.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11363,distance_to_school_km,13.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11392,distance_to_school_km,12.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11404,distance_to_school_km,16.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11429,distance_to_school_km,13.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11453,distance_to_school_km,13.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11457,distance_to_school_km,29.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11482,distance_to_school_km,13.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11501,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11504,distance_to_school_km,16.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11507,distance_to_school_km,15.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11523,distance_to_school_km,15.5,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11532,distance_to_school_km,12.3,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11582,distance_to_school_km,11.7,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11588,distance_to_school_km,13.4,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11592,distance_to_school_km,11.1,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11651,distance_to_school_km,14.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11717,distance_to_school_km,10.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11753,distance_to_school_km,12.0,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11786,distance_to_school_km,11.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11847,distance_to_school_km,13.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11884,distance_to_school_km,13.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11889,distance_to_school_km,15.8,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11908,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11991,distance_to_school_km,12.9,-4.15,10.649999999999999,winsorize IQR pada fitur model
+11993,distance_to_school_km,12.2,-4.15,10.649999999999999,winsorize IQR pada fitur model
+12000,distance_to_school_km,13.6,-4.15,10.649999999999999,winsorize IQR pada fitur model
+3,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+135,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+149,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+209,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+299,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+353,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+384,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+398,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+419,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+484,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+527,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+557,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+572,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+585,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+615,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+627,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+711,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+832,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+871,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+899,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1003,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1007,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1038,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1062,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1066,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1152,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1220,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1257,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1265,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1272,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1354,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1394,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1408,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1417,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1471,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1540,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1632,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1640,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1649,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1721,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1732,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1822,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1828,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1844,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1853,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+1858,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2036,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2157,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2219,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2220,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2251,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2291,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2317,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2346,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2363,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2514,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2655,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2697,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2747,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2787,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+2856,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3117,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3204,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3231,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3234,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3235,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3240,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3317,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3370,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3417,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3425,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3481,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3496,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3567,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3722,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3763,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3783,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3800,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3889,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3981,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+3994,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4019,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4040,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4133,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4145,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4175,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4239,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4353,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4388,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4479,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4483,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4484,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4555,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4607,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4741,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4854,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4890,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4932,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4935,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+4937,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5124,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5192,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5255,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5264,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5287,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5331,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5342,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5459,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5469,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5487,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5522,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5567,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5581,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5614,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5635,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5685,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5733,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5794,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5868,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5890,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5896,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+5960,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6053,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6107,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6109,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6111,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6118,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6120,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6210,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6354,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6411,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6466,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6514,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6536,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6599,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6610,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6646,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6648,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6660,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6723,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6748,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6781,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6873,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6880,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6962,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6975,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+6985,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7003,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7005,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7060,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7071,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7090,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7102,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7121,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7158,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7166,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7187,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7217,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7375,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7424,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7487,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7530,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7595,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7597,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7776,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7852,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7931,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7934,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7943,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7972,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+7990,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8126,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8198,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8236,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8439,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8612,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8663,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8677,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8692,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8728,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8810,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8812,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8822,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8834,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8881,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8944,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+8972,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9066,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9103,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9226,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9242,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9288,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9335,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9399,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9532,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9569,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9651,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9876,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9898,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9920,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9927,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+9945,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10003,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10008,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10044,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10120,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10140,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10178,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10251,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10267,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10401,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10506,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10617,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10659,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10697,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10870,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10924,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10976,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+10995,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11020,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11083,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11097,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11123,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11150,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11176,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11180,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11266,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11269,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11283,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11319,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11346,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11349,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11382,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11423,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11453,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11544,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11552,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11702,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11727,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11772,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11790,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11809,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11819,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+11820,parental_involvement_score,1.0,1.5,5.5,hapus baris outlier dari data latih saja
+255,study_hours_per_week,26.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+378,study_hours_per_week,0.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+589,study_hours_per_week,55.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+600,study_hours_per_week,57.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+762,study_hours_per_week,49.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+830,study_hours_per_week,55.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+856,study_hours_per_week,30.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+902,study_hours_per_week,0.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+1078,study_hours_per_week,29.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+1235,study_hours_per_week,60.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+1297,study_hours_per_week,2.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+1362,study_hours_per_week,63.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+1690,study_hours_per_week,49.9,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+1842,study_hours_per_week,61.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+1878,study_hours_per_week,0.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+1969,study_hours_per_week,26.7,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2040,study_hours_per_week,62.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2139,study_hours_per_week,28.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2211,study_hours_per_week,26.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2263,study_hours_per_week,26.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2460,study_hours_per_week,2.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2503,study_hours_per_week,2.2,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2552,study_hours_per_week,56.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2701,study_hours_per_week,2.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2759,study_hours_per_week,1.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2830,study_hours_per_week,31.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2856,study_hours_per_week,1.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+2957,study_hours_per_week,26.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3146,study_hours_per_week,2.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3176,study_hours_per_week,2.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3337,study_hours_per_week,27.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3341,study_hours_per_week,59.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3353,study_hours_per_week,26.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3355,study_hours_per_week,29.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3674,study_hours_per_week,58.2,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3738,study_hours_per_week,26.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3755,study_hours_per_week,2.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3824,study_hours_per_week,0.7,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+3943,study_hours_per_week,2.2,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4157,study_hours_per_week,27.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4200,study_hours_per_week,27.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4305,study_hours_per_week,28.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4389,study_hours_per_week,26.9,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4406,study_hours_per_week,60.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4501,study_hours_per_week,27.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4555,study_hours_per_week,0.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4653,study_hours_per_week,61.8,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4656,study_hours_per_week,1.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4914,study_hours_per_week,26.7,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+4960,study_hours_per_week,26.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+5444,study_hours_per_week,63.2,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+5513,study_hours_per_week,29.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+5703,study_hours_per_week,59.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+5788,study_hours_per_week,57.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+5794,study_hours_per_week,2.2,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+5859,study_hours_per_week,27.8,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+5872,study_hours_per_week,57.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+5961,study_hours_per_week,62.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6120,study_hours_per_week,0.9,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6186,study_hours_per_week,27.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6255,study_hours_per_week,26.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6378,study_hours_per_week,26.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6717,study_hours_per_week,30.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6810,study_hours_per_week,26.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6852,study_hours_per_week,27.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6932,study_hours_per_week,26.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+6992,study_hours_per_week,1.8,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+7058,study_hours_per_week,27.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+7410,study_hours_per_week,2.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+7489,study_hours_per_week,55.9,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+7791,study_hours_per_week,26.2,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+7844,study_hours_per_week,63.7,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8027,study_hours_per_week,2.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8042,study_hours_per_week,26.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8077,study_hours_per_week,26.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8175,study_hours_per_week,57.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8302,study_hours_per_week,26.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8341,study_hours_per_week,54.2,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8457,study_hours_per_week,0.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8690,study_hours_per_week,2.7,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8786,study_hours_per_week,0.2,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8787,study_hours_per_week,26.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8858,study_hours_per_week,62.9,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+8914,study_hours_per_week,27.9,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9366,study_hours_per_week,61.8,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9383,study_hours_per_week,53.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9457,study_hours_per_week,26.9,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9505,study_hours_per_week,27.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9566,study_hours_per_week,28.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9741,study_hours_per_week,2.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9806,study_hours_per_week,2.0,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9893,study_hours_per_week,1.8,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9917,study_hours_per_week,27.7,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+9942,study_hours_per_week,50.8,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+10140,study_hours_per_week,2.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+10197,study_hours_per_week,55.1,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+10343,study_hours_per_week,1.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+10546,study_hours_per_week,58.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+10837,study_hours_per_week,56.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+10854,study_hours_per_week,2.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+11079,study_hours_per_week,1.5,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+11161,study_hours_per_week,2.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+11200,study_hours_per_week,1.6,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+11263,study_hours_per_week,27.8,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+11502,study_hours_per_week,60.3,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+11684,study_hours_per_week,1.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+11716,study_hours_per_week,28.4,2.700000000000001,25.9,tandai saja; nilai dipertahankan
+596,attendance_rate_pct,62.5,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+994,attendance_rate_pct,62.7,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+1273,attendance_rate_pct,59.3,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+1492,attendance_rate_pct,62.9,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+1958,attendance_rate_pct,62.6,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+3087,attendance_rate_pct,62.4,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+3226,attendance_rate_pct,59.8,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+4888,attendance_rate_pct,60.7,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+5608,attendance_rate_pct,62.0,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+7166,attendance_rate_pct,58.4,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+9230,attendance_rate_pct,62.7,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+10004,attendance_rate_pct,61.9,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+10559,attendance_rate_pct,59.2,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+11202,attendance_rate_pct,59.5,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+11214,attendance_rate_pct,61.2,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+11272,attendance_rate_pct,62.3,62.95,108.95,batas logis 0-100; outlier IQR yang valid dipertahankan
+236,previous_year_grade_pct,33.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+311,previous_year_grade_pct,31.7,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+594,previous_year_grade_pct,91.7,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+761,previous_year_grade_pct,93.7,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1008,previous_year_grade_pct,97.1,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1235,previous_year_grade_pct,92.2,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1362,previous_year_grade_pct,100.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1558,previous_year_grade_pct,31.4,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1786,previous_year_grade_pct,97.4,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1988,previous_year_grade_pct,31.6,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2521,previous_year_grade_pct,100.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2768,previous_year_grade_pct,98.2,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2827,previous_year_grade_pct,32.9,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2864,previous_year_grade_pct,32.6,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3254,previous_year_grade_pct,96.3,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3267,previous_year_grade_pct,91.5,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3422,previous_year_grade_pct,31.6,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3492,previous_year_grade_pct,33.3,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3645,previous_year_grade_pct,92.7,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3674,previous_year_grade_pct,92.2,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3837,previous_year_grade_pct,27.5,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3839,previous_year_grade_pct,93.9,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4406,previous_year_grade_pct,92.2,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4709,previous_year_grade_pct,96.6,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4938,previous_year_grade_pct,95.3,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5012,previous_year_grade_pct,100.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5146,previous_year_grade_pct,97.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5495,previous_year_grade_pct,29.8,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5513,previous_year_grade_pct,91.1,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6118,previous_year_grade_pct,25.9,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6138,previous_year_grade_pct,94.1,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6415,previous_year_grade_pct,32.9,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6525,previous_year_grade_pct,27.5,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7095,previous_year_grade_pct,32.5,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7097,previous_year_grade_pct,31.9,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7227,previous_year_grade_pct,26.2,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7230,previous_year_grade_pct,92.2,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7688,previous_year_grade_pct,92.7,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7935,previous_year_grade_pct,31.7,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8619,previous_year_grade_pct,91.6,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8786,previous_year_grade_pct,25.7,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8920,previous_year_grade_pct,92.7,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9668,previous_year_grade_pct,95.9,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9713,previous_year_grade_pct,33.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9734,previous_year_grade_pct,33.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9794,previous_year_grade_pct,95.3,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10308,previous_year_grade_pct,30.2,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10431,previous_year_grade_pct,92.4,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10488,previous_year_grade_pct,92.6,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10552,previous_year_grade_pct,31.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10768,previous_year_grade_pct,28.0,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10855,previous_year_grade_pct,93.5,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11632,previous_year_grade_pct,28.1,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11875,previous_year_grade_pct,91.9,33.39999999999999,91.00000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+93,final_grade_pct,35.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+118,final_grade_pct,38.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+380,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+518,final_grade_pct,9.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+593,final_grade_pct,32.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+815,final_grade_pct,30.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+857,final_grade_pct,97.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+961,final_grade_pct,17.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1077,final_grade_pct,96.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1172,final_grade_pct,36.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1246,final_grade_pct,99.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1362,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1365,final_grade_pct,37.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1466,final_grade_pct,20.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1630,final_grade_pct,28.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1699,final_grade_pct,20.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1819,final_grade_pct,20.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1847,final_grade_pct,38.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+1995,final_grade_pct,15.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2006,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2030,final_grade_pct,29.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2171,final_grade_pct,14.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2221,final_grade_pct,35.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2327,final_grade_pct,25.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2329,final_grade_pct,36.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2364,final_grade_pct,30.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2386,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2450,final_grade_pct,25.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2633,final_grade_pct,8.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2642,final_grade_pct,23.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2652,final_grade_pct,29.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2687,final_grade_pct,96.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2753,final_grade_pct,35.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2760,final_grade_pct,38.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2768,final_grade_pct,99.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+2908,final_grade_pct,35.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3072,final_grade_pct,34.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3143,final_grade_pct,29.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3254,final_grade_pct,96.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3262,final_grade_pct,38.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3273,final_grade_pct,17.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3401,final_grade_pct,17.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3407,final_grade_pct,22.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3472,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3510,final_grade_pct,96.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3608,final_grade_pct,36.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3627,final_grade_pct,36.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3681,final_grade_pct,20.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3701,final_grade_pct,29.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+3954,final_grade_pct,33.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4204,final_grade_pct,20.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4389,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4473,final_grade_pct,29.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4509,final_grade_pct,24.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4594,final_grade_pct,35.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4625,final_grade_pct,33.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4709,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4898,final_grade_pct,28.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4942,final_grade_pct,98.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4955,final_grade_pct,11.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+4966,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5097,final_grade_pct,25.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5104,final_grade_pct,34.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5146,final_grade_pct,96.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5160,final_grade_pct,36.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5191,final_grade_pct,26.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5222,final_grade_pct,38.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5226,final_grade_pct,29.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5312,final_grade_pct,20.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5333,final_grade_pct,23.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5334,final_grade_pct,36.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5381,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5417,final_grade_pct,20.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5463,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5658,final_grade_pct,37.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5680,final_grade_pct,36.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5807,final_grade_pct,19.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5840,final_grade_pct,23.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5844,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5910,final_grade_pct,22.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5972,final_grade_pct,35.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+5984,final_grade_pct,11.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6093,final_grade_pct,17.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6104,final_grade_pct,38.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6124,final_grade_pct,35.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6125,final_grade_pct,36.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6145,final_grade_pct,31.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6147,final_grade_pct,25.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6158,final_grade_pct,18.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6207,final_grade_pct,38.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6210,final_grade_pct,33.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6262,final_grade_pct,96.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6314,final_grade_pct,38.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6386,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6399,final_grade_pct,35.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6413,final_grade_pct,25.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6608,final_grade_pct,38.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6666,final_grade_pct,31.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6701,final_grade_pct,33.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6778,final_grade_pct,24.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6801,final_grade_pct,31.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6933,final_grade_pct,19.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+6940,final_grade_pct,98.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7048,final_grade_pct,26.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7121,final_grade_pct,99.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7227,final_grade_pct,33.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7262,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7286,final_grade_pct,22.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7315,final_grade_pct,37.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7332,final_grade_pct,10.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7362,final_grade_pct,12.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7628,final_grade_pct,27.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7698,final_grade_pct,24.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7738,final_grade_pct,10.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7827,final_grade_pct,27.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+7855,final_grade_pct,26.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8039,final_grade_pct,34.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8208,final_grade_pct,33.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8277,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8286,final_grade_pct,99.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8287,final_grade_pct,97.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8341,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8371,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8778,final_grade_pct,32.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8920,final_grade_pct,98.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8928,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8941,final_grade_pct,26.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8991,final_grade_pct,20.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8992,final_grade_pct,34.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+8997,final_grade_pct,21.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9024,final_grade_pct,27.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9094,final_grade_pct,96.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9152,final_grade_pct,12.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9196,final_grade_pct,37.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9204,final_grade_pct,11.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9251,final_grade_pct,19.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9255,final_grade_pct,27.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9257,final_grade_pct,30.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9315,final_grade_pct,31.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9326,final_grade_pct,15.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9352,final_grade_pct,23.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9374,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9411,final_grade_pct,27.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9427,final_grade_pct,96.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9623,final_grade_pct,22.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9713,final_grade_pct,38.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9721,final_grade_pct,24.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9723,final_grade_pct,37.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9758,final_grade_pct,20.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9774,final_grade_pct,35.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9845,final_grade_pct,17.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+9937,final_grade_pct,96.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10075,final_grade_pct,98.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10264,final_grade_pct,20.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10321,final_grade_pct,36.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10327,final_grade_pct,35.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10359,final_grade_pct,19.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10404,final_grade_pct,34.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10474,final_grade_pct,37.2,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10564,final_grade_pct,100.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10595,final_grade_pct,38.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10742,final_grade_pct,96.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10768,final_grade_pct,31.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10816,final_grade_pct,33.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10821,final_grade_pct,36.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10856,final_grade_pct,32.7,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+10900,final_grade_pct,31.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11073,final_grade_pct,29.4,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11101,final_grade_pct,24.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11174,final_grade_pct,29.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11217,final_grade_pct,28.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11236,final_grade_pct,25.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11283,final_grade_pct,11.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11490,final_grade_pct,26.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11505,final_grade_pct,37.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11519,final_grade_pct,28.5,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11651,final_grade_pct,31.0,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11737,final_grade_pct,15.9,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11788,final_grade_pct,28.6,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11874,final_grade_pct,28.1,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11950,final_grade_pct,2.8,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan
+11953,final_grade_pct,96.3,38.64999999999999,95.85000000000001,batas logis 0-100; outlier IQR yang valid dipertahankan

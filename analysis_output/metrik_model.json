@@ -1,0 +1,156 @@
+{
+  "model": "Lasso",
+  "best_model": "Lasso",
+  "model_comparison": [
+    {
+      "model": "Lasso",
+      "r2": 0.33789607996933135,
+      "mae": 6.781439123456715,
+      "rmse": 9.442386529396641
+    },
+    {
+      "model": "Ridge",
+      "r2": 0.3375731316100067,
+      "mae": 6.787831943529708,
+      "rmse": 9.444689061817405
+    },
+    {
+      "model": "LinearRegression",
+      "r2": 0.33756489580614146,
+      "mae": 6.788038035098942,
+      "rmse": 9.444747773479495
+    },
+    {
+      "model": "HistGradientBoosting",
+      "r2": 0.2935636529179877,
+      "mae": 7.039802734108776,
+      "rmse": 9.753381527680938
+    },
+    {
+      "model": "RandomForest",
+      "r2": 0.29203780998647333,
+      "mae": 7.076999897157337,
+      "rmse": 9.763909086855385
+    }
+  ],
+  "target": "final_grade_pct",
+  "rows_used": 8611,
+  "train_rows": 6850,
+  "test_rows": 1761,
+  "random_state": 42,
+  "r2": 0.33789607996933135,
+  "mae": 6.781439123456715,
+  "rmse": 9.442386529396641,
+  "baseline_mean_mae": 8.829690114690973,
+  "target_mean": 66.87774622287857,
+  "target_std": 11.659060674259905,
+  "missing_values_by_feature_before_drop": {
+    "age": 0,
+    "grade_level": 0,
+    "family_size": 0,
+    "num_siblings": 0,
+    "single_parent_household": 0,
+    "annual_family_income_inr": 721,
+    "has_internet_access": 181,
+    "has_computer_or_laptop": 0,
+    "distance_to_school_km": 241,
+    "extra_tutoring": 0,
+    "parental_involvement_score": 0,
+    "study_hours_per_week": 0,
+    "attendance_rate_pct": 300,
+    "previous_year_grade_pct": 360,
+    "gender": 0,
+    "school_type": 0,
+    "residence_type": 0,
+    "family_income_bracket": 0,
+    "father_education_level": 420,
+    "mother_education_level": 361,
+    "father_occupation": 481,
+    "mother_occupation": 602,
+    "scholarship_status": 0
+  },
+  "missing_target_values_before_drop": 0,
+  "missing_rows_removed": 3222,
+  "invalid_rows_removed": 0,
+  "invalid_values_by_column": {
+    "age": 0,
+    "grade_level": 0,
+    "family_size": 0,
+    "num_siblings": 0,
+    "single_parent_household": 0,
+    "annual_family_income_inr": 0,
+    "has_internet_access": 0,
+    "has_computer_or_laptop": 0,
+    "distance_to_school_km": 0,
+    "extra_tutoring": 0,
+    "parental_involvement_score": 0,
+    "study_hours_per_week": 0,
+    "attendance_rate_pct": 0,
+    "previous_year_grade_pct": 0,
+    "final_grade_pct": 0
+  },
+  "iqr_outlier_rule": "1.5 * IQR; feature-specific policies in outlier_handling",
+  "iqr_outlier_values_flagged": 1997,
+  "iqr_outlier_counts_by_column": {
+    "annual_family_income_inr": 866,
+    "distance_to_school_km": 515,
+    "parental_involvement_score": 244,
+    "final_grade_pct": 182,
+    "study_hours_per_week": 107,
+    "previous_year_grade_pct": 54,
+    "attendance_rate_pct": 16,
+    "num_siblings": 12,
+    "family_size": 1
+  },
+  "outlier_handling": {
+    "annual_family_income_inr": {
+      "policy": "IQR winsorization using training-set bounds",
+      "lower_bound": -502483.5,
+      "upper_bound": 1359916.5,
+      "training_values_capped": 674
+    },
+    "distance_to_school_km": {
+      "policy": "IQR winsorization using training-set bounds",
+      "lower_bound": -4.15,
+      "upper_bound": 10.649999999999999,
+      "training_values_capped": 403
+    },
+    "parental_involvement_score": {
+      "policy": "remove IQR outlier rows from training set only",
+      "training_rows_removed": 192,
+      "lower_bound": 1.5,
+      "upper_bound": 5.5
+    },
+    "final_grade_pct": {
+      "policy": "constrain to logical range 0-100",
+      "values_changed": 0,
+      "note": "IQR outliers within 0-100 remain unchanged"
+    },
+    "previous_year_grade_pct": {
+      "policy": "constrain to logical range 0-100",
+      "values_changed": 0,
+      "note": "IQR outliers within 0-100 remain unchanged"
+    },
+    "attendance_rate_pct": {
+      "policy": "constrain to logical range 0-100",
+      "values_changed": 0,
+      "note": "IQR outliers within 0-100 remain unchanged"
+    },
+    "study_hours_per_week": {
+      "policy": "flag only; retain values"
+    },
+    "num_siblings": {
+      "policy": "flag only; retain values"
+    },
+    "family_size": {
+      "policy": "flag only; retain values"
+    }
+  },
+  "excluded_columns": [
+    "student_id",
+    "survey_date",
+    "academic_year",
+    "grade_class",
+    "at_risk_flag"
+  ]
+}
